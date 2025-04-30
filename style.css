@@ -2,7 +2,7 @@
     border: solid 3px green;
     height: 50vh;
     width: 70vw;
-    background-color: rgb(101, 149, 232);
+    background-color: rgb(255, 255, 255);
     margin: auto;
     display: flex;
     justify-content: center;
@@ -18,7 +18,7 @@ h1{
     color: yellow;
 }
 body{
-    background-color: gray;
+    background-color: rgb(98, 133, 228);
 }
 h2{
     text-align: center;
