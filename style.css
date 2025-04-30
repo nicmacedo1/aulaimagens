@@ -1,0 +1,15 @@
+#Brasil{
+    border: solid 3px rgb(37, 0, 79);
+    height: 50vh;
+    width: 70vw;
+    background-color: rgb(147, 156, 153);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.brasilimg{
+    height: 38vh;
+    width: 20vw;
+}
